@@ -33,20 +33,20 @@ Install Python 3 from: https://www.python.org/downloads/
 
 Download or copy the project Python file:
 
-expense_manager.py
+Vityarthi_Project.py
 
 Run the Project
 
 Open a terminal / command prompt and run:
 
-python expense_manager.py
+python Vityarthi_Project.py
 
 
 or on some systems:
 
-python3 expense_manager.py
+python3 Vityarthi_Project.py
 
-#🧪 Instructions for Testing
+# 🧪 Instructions for Testing
 
 Use the following sequence to test functionality:
 
@@ -65,7 +65,7 @@ Example placeholder:
 
 [Insert screenshot demonstrating adding a transaction]
 
-#📌 Future Improvements
+# 📌 Future Improvements
 
 Transaction categories (Food, Entertainment, Bills)
 
@@ -79,6 +79,6 @@ GUI interface using Tkinter
 
 This project is created for academic purposes and is allowed for educational use only.
 
-👍 Thank You
+# 👍 Thank You
 
-For any improvements or issues, conta
+For any improvements or issues, contact: akshat.25bce10693@vitbhopal.ac.in
