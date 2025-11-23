@@ -51,12 +51,12 @@ or on some systems:
 Use the following sequence to test functionality:
 
 Step Action	Expected Result:
-1.   Choose Option 1 		Add transaction with amount & description
-2.   Choose Option 2 		Displays list of saved transactions
-3.   Choose Option 3 		Shows total balance
-4.   Choose Option 4 		Calculates monthly saving requirement
-5.   Enter Invalid Inputs	Shows validation error messages
-6.   Choose Option 5 		Application exits
+1.   Choose Option 1: 		Add transaction with amount & description
+2.   Choose Option 2: 		Displays list of saved transactions
+3.   Choose Option 3:		Shows total balance
+4.   Choose Option 4:		Calculates monthly saving requirement
+5.   Enter Invalid Inputs:	Shows validation error messages
+6.   Choose Option 5: 		Application exits
 
 
 Example:
