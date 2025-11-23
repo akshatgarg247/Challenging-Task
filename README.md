@@ -57,13 +57,14 @@ Step	Action	Expected Result
 4	Choose option 4	Calculates monthly saving requirement
 5	Enter invalid inputs	Shows validation error messages
 6	Choose 5	Application exits
-🖼 Screenshots (Optional but Recommended)
+
 
 Add screenshots here such as program execution on terminal, feature usage etc.
 
 Example placeholder:
 
-[Insert screenshot demonstrating adding a transaction]
+<img width="593" height="219" alt="image" src="https://github.com/user-attachments/assets/d8388027-0410-47d9-8e54-788388110169" />
+
 
 # 📌 Future Improvements
 
