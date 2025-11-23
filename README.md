@@ -59,9 +59,7 @@ Step	Action	Expected Result
 6	Choose 5	Application exits
 
 
-Add screenshots here such as program execution on terminal, feature usage etc.
-
-Example placeholder:
+Example:
 
 <img width="593" height="219" alt="image" src="https://github.com/user-attachments/assets/d8388027-0410-47d9-8e54-788388110169" />
 
