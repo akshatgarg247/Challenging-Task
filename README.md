@@ -33,18 +33,18 @@ Install Python 3 from: https://www.python.org/downloads/
 
 Download or copy the project Python file:
 
-Vityarthi_Project.py
+`Vityarthi_Project.py`
 
 Run the Project
 
 Open a terminal / command prompt and run:
 
-python Vityarthi_Project.py
+`python Vityarthi_Project.py`
 
 
 or on some systems:
 
-python3 Vityarthi_Project.py
+`python3 Vityarthi_Project.py`
 
 # Instructions for Testing
 
