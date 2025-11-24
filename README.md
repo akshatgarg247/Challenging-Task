@@ -26,6 +26,12 @@ Python 3.10+	Core programming language
 datetime module	Handling date and time for transactions
 Console/Terminal	User interaction menu
 
+Dependencies Used
+Used datetime module for transactions
+
+Command to install dependency
+`pip install datetime`
+
 #  Steps to Install & Run the Project
 Installation
 
